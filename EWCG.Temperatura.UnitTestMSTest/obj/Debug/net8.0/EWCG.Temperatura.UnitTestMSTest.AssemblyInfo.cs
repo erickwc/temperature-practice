@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EWCG.TemperaturaConverter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EWCG.Temperatura.UnitTestMSTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e58cd57d24114f549b65a9e418ba92f46227d14")]
-[assembly: System.Reflection.AssemblyProductAttribute("EWCG.TemperaturaConverter")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EWCG.TemperaturaConverter")]
+[assembly: System.Reflection.AssemblyProductAttribute("EWCG.Temperatura.UnitTestMSTest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EWCG.Temperatura.UnitTestMSTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

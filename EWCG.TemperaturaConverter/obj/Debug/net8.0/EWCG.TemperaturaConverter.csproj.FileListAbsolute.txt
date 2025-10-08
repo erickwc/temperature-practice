@@ -1,0 +1,12 @@
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\bin\Debug\net8.0\EWCG.TemperaturaConverter.deps.json
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\bin\Debug\net8.0\EWCG.TemperaturaConverter.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\bin\Debug\net8.0\EWCG.TemperaturaConverter.pdb
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.AssemblyInfo.cs
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.sourcelink.json
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\refint\EWCG.TemperaturaConverter.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\EWCG.TemperaturaConverter.pdb
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.TemperaturaConverter\obj\Debug\net8.0\ref\EWCG.TemperaturaConverter.dll

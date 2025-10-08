@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EWCG.TemperaturaConverter
+namespace ECRC.Temperatura
 {
-    internal class TemperatureConverter
+    public class TemperatureConverter
     {
+        public double CelsiusToFahrenheit(double celsius)
+        {
+            return (celsius * 9 / 5) + 32;
+        }
     }
 }

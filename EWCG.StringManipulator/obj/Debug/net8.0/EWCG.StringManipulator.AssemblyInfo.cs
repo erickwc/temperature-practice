@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EWCG.StringManipulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7c7be445b1fc14556e1076f176b3e15bac478c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a447021a8b8a407af7efe99afe6e28e6e10cd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EWCG.StringManipulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EWCG.StringManipulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

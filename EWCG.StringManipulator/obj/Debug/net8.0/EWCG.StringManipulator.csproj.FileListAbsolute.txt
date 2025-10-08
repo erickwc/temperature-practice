@@ -1,0 +1,12 @@
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\bin\Debug\net8.0\EWCG.StringManipulator.deps.json
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\bin\Debug\net8.0\EWCG.StringManipulator.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\bin\Debug\net8.0\EWCG.StringManipulator.pdb
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.AssemblyInfo.cs
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.sourcelink.json
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\refint\EWCG.StringManipulator.dll
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\EWCG.StringManipulator.pdb
+C:\Users\erick\Desktop\Temperatura-Practice\EWCG.TemperaturaConverter\EWCG.StringManipulator\obj\Debug\net8.0\ref\EWCG.StringManipulator.dll
